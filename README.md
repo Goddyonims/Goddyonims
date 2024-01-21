@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Technology.
 - 📫 How to reach me ...@godwininimisiontop@gmail.com
 - 😄 Pronouns: ...Life
-- ⚡ Fun fact: ...If you don't push it won't move.
+- ⚡ Fun fact: ...If you don't push it, it won't move.
 
 <!---
 Goddyonims/Goddyonims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
